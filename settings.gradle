@@ -1,0 +1,2 @@
+rootProject.name='GSB_Android'
+include ':app'

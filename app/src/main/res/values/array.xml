@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultValue">
+        <item name="etp">ETP</item>
+        <item name="rep">REP</item>
+        <item name="nui">NUI</item>
+        <item name="km">KM</item>
+    </string-array>
+</resources>

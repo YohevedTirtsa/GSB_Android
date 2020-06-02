@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- | THEMES | -->
+
+    <!-- Base application theme -->
+    <style name="Wonder" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Home Screen Theme -->
+    <style name="Wonder.Home">
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <!-- Detail Screen Theme -->
+    <style name="Wonder.Detail">
+        <item name="android:windowBackground">@color/background_gray</item>
+    </style>
+
+</resources>
